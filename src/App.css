@@ -1,0 +1,26 @@
+.temp{
+  text-align: center;
+  text-align: center;
+  font-size: large;
+  color: blueviolet;
+  text-size-adjust: middle;
+}
+.gem{
+  background-color: white;
+  width: 200pc;
+  border: 10px solid black;
+  text-align: center;
+  display:inline-flex;
+}
+.p{
+  width: 23pc;
+}
+.r{
+  width: 13pc;
+}
+.m{
+  width: 13pc;
+}
+.button{
+  size: 0cap;
+}
